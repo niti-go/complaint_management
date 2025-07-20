@@ -1,17 +1,21 @@
 # Complaint Management System
 
-A full-stack application for submitting and managing complaints.
-
-Screenshot of complaint form submission page:
+A simple application for submitting and managing complaints. It contains a form to submit complaints and an admin page to manage complaints.
+I learned a lot about full stack development from this project.
 
 <p align="center">
-  <img src="screenshots/submit_page_screenshot.png" alt="Alt Text" width="400" />
+  <br />
+  <img src="screenshots/submit_page_screenshot.png" alt="Complaint Form Page" width="400" />
+  <br />
+  <em style="color: gray;">Screenshot of complaint form submission page</em>
 </p>
 
-Screenshot of admin page:
 
 <p align="center">
-  <img src="screenshots/admin_page_screenshot.png" alt="Alt Text" width="400" />
+    <br />
+  <img src="screenshots/admin_page_screenshot.png" alt="Admin Page" width="600" />
+  <br />
+  <em style="color: gray;">Screenshot of admin page</em>
 </p>
 
 ### Tech Stack
@@ -29,7 +33,7 @@ You will need Node.js, npm, and a Supabase account.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/niti-go/complaint_management.git
 cd take_home
 ```
 
